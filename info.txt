@@ -26,9 +26,12 @@
 	> cd D:\OneDrive\ustaval	[cd /d D:\OneDrive\ustaval]
    	> ust\Scripts\activate
 	> git init
-	> git add .
+	> git add .	[git add info.txt]
+	> git status
 	> git commit -m "decorator and others, section 1, last lesson"
 	> git remote -v
 	> git remote add origin git@github.com:nicol2021/usta.git
-	> git push origin main
+	> git push origin master	[==>>yeio491dflijeburmasshyrpowru784jeio6128000]
 
+
+test...
